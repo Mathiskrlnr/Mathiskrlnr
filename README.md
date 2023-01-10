@@ -19,9 +19,9 @@
 
 
 
-- 👋 Hi, I’m @Mathiskrlnr, i am currently taking an intensive Web Development Bootcamp @LaCapsule : 🚀 Full-Stack Developer 🚀.
-- 👀 I’m interested in business, e-commerce & app
-- 🌱 I’m currently learning React Native & working on Plant Sitting & Benigo App. (personal project)
+- 👋 Hi, I’m @Mathiskrlnr, i am Junior Full-Stack Developer 🚀.
+- 👀 I’m interested in business, e-commerce & wine !
+- 🌱 I’m currently working on Plant Sitting & Benigo App. (personal project)
 - 💞️ I’m looking for a job opportunity as a Junior Full Stack Node/React.js Developer
 
 
