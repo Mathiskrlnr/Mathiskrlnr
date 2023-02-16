@@ -19,10 +19,10 @@
 
 
 
-- 👋 Hi, I’m @Mathiskrlnr, i am Junior Full-Stack Developer 🚀.
+- 👋 Hi, I’m @Mathiskrlnr, i am Full-Stack Developer 🚀.
 - 👀 I’m interested in business, e-commerce & wine !
-- 🌱 I’m currently working on Plant Sitting & Benigo App. (personal project)
-- 💞️ I’m looking for a job opportunity as a Junior Full Stack Node/React.js Developer
+- 🌱 I’m currently working on Plant. , Benigo App. & Jarveet Bot (personal project)
+- 💞️ I’m looking for a job opportunity as a Full Stack Node/React.js Developer
 
 
 ---
