@@ -21,9 +21,7 @@
 
 - 👋 Hi, I’m @Mathiskrlnr, i am Full-Stack Developer 🚀.
 - 👀 I’m interested in business, e-commerce & wine !
-- 🌱 I’m currently working on Plant. , Benigo App. & Jarveet Bot (personal project)
-- 💞️ I’m looking for a job opportunity as a Full Stack Node/React.js Developer
-
+- 🌱 I’m currently working on Teacher @ La Capsule coding bootcamp & on Plant. , Benigo App. & Jarveet Bot (personal project)
 
 ---
 
